@@ -7,6 +7,7 @@ Simple script to fix Pizza Client crashes on Linux by safely faking `libc.so` fo
 - Hyprland DE, zsh 5.9
 - AMD Ryzen 5 3400G / GTX 1660 SUPER
 - 16GB RAM
+- Pizza Client Public v2.7.5
 
 ## Usage
 ```bash
