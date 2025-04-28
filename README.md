@@ -10,12 +10,12 @@ Simple script to fix Pizza Client crashes on Linux by safely faking `libc.so` fo
 
 ## Usage
 ```bash
-chmod +x fix-pizzaclient-linux.sh
-./fix-pizzaclient-linux.sh start
+chmod +x minecraft-pizza-fix.sh
+./minecraft-pizza-fix.sh start
 ```
 To undo:
 ```bash
-./fix-pizzaclient-linux.sh undo
+./minecraft-pizza-fix.sh undo
 ```
 
 ## Notes
