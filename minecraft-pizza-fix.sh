@@ -13,7 +13,7 @@ create_fake_libc() {
 
 launch_minecraft() {
     echo "Launching Minecraft Launcher with fake libc.so..."
-    LD_LIBRARY_PATH="$FAKE_LIBC_DIR" minecraft-launcher
+    LD_LIBRARY_PATH="$FAKE_LIBC_DIR" prismlauncher
 }
 
 undo_fake_libc() {
